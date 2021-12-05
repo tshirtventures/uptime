@@ -22,18 +22,20 @@
     "url": "https://app.providerchoice.com.au",
     "icon": "https://favicons.githubusercontent.com/app.providerchoice.com.au",
     "slug": "provider-choice-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 885,
-    "timeWeek": 891,
-    "timeMonth": 897,
-    "timeYear": 908,
-    "dailyMinutesDown": {}
+    "time": 907,
+    "timeDay": 862,
+    "timeWeek": 884,
+    "timeMonth": 895,
+    "timeYear": 907,
+    "dailyMinutesDown": {
+      "2021-12-05": 0
+    }
   },
   {
     "name": "HeyHubble",
