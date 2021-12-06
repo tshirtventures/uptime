@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 251,
-    "timeWeek": 124,
+    "time": 117,
+    "timeDay": 256,
+    "timeWeek": 150,
     "timeMonth": 116,
-    "timeYear": 116,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "provider-choice-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 907,
-    "timeDay": 867,
-    "timeWeek": 883,
-    "timeMonth": 894,
+    "timeDay": 858,
+    "timeWeek": 880,
+    "timeMonth": 897,
     "timeYear": 907,
-    "dailyMinutesDown": {
-      "2021-12-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HeyHubble",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 262,
-    "timeWeek": 111,
+    "time": 126,
+    "timeDay": 264,
+    "timeWeek": 140,
     "timeMonth": 119,
-    "timeYear": 125,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1572,
-    "timeDay": 488,
-    "timeWeek": 2359,
-    "timeMonth": 2564,
-    "timeYear": 1572,
+    "time": 1586,
+    "timeDay": 3960,
+    "timeWeek": 2870,
+    "timeMonth": 2663,
+    "timeYear": 1586,
     "dailyMinutesDown": {}
   }
 ]
