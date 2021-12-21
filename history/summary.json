@@ -4,19 +4,19 @@
     "url": "https://providerchoice.com.au",
     "icon": "https://favicons.githubusercontent.com/providerchoice.com.au",
     "slug": "provider-choice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 302,
-    "timeWeek": 183,
-    "timeMonth": 149,
+    "timeDay": 396,
+    "timeWeek": 209,
+    "timeMonth": 155,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 724,
-    "timeWeek": 705,
-    "timeMonth": 816,
-    "timeYear": 892,
+    "time": 891,
+    "timeDay": 708,
+    "timeWeek": 697,
+    "timeMonth": 811,
+    "timeYear": 891,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 262,
-    "timeWeek": 277,
-    "timeMonth": 180,
+    "timeDay": 345,
+    "timeWeek": 302,
+    "timeMonth": 185,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1645,
-    "timeDay": 3961,
-    "timeWeek": 1617,
-    "timeMonth": 2454,
-    "timeYear": 1645,
+    "time": 1660,
+    "timeDay": 4262,
+    "timeWeek": 2085,
+    "timeMonth": 2562,
+    "timeYear": 1660,
     "dailyMinutesDown": {}
   }
 ]
