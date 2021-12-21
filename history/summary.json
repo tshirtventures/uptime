@@ -4,9 +4,9 @@
     "url": "https://providerchoice.com.au",
     "icon": "https://favicons.githubusercontent.com/providerchoice.com.au",
     "slug": "provider-choice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 134,
     "timeMonth": 136,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   },
   {
     "name": "Provider Choice - App",
@@ -40,9 +42,9 @@
     "url": "https://heyhubble.com.au",
     "icon": "https://favicons.githubusercontent.com/heyhubble.com.au",
     "slug": "hey-hubble",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 253,
     "timeMonth": 171,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   },
   {
     "name": "HeyHubble - App",
