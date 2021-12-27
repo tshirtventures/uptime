@@ -4,9 +4,9 @@
     "url": "https://providerchoice.com.au",
     "icon": "https://favicons.githubusercontent.com/providerchoice.com.au",
     "slug": "provider-choice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 196,
     "timeMonth": 161,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-27": 0
+    }
   },
   {
     "name": "Provider Choice - App",
