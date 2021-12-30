@@ -24,19 +24,19 @@
     "url": "https://app.providerchoice.com.au",
     "icon": "https://favicons.githubusercontent.com/app.providerchoice.com.au",
     "slug": "provider-choice-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 700,
-    "timeWeek": 731,
-    "timeMonth": 772,
-    "timeYear": 883,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 882,
+    "timeDay": 707,
+    "timeWeek": 730,
+    "timeMonth": 770,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2021-12-30": 0
+      "2021-12-30": 14
     }
   },
   {
