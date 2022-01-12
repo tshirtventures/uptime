@@ -60,9 +60,9 @@
     "url": "https://app.heyhubble.com.au",
     "icon": "https://favicons.githubusercontent.com/app.heyhubble.com.au",
     "slug": "hey-hubble-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 1740,
     "timeMonth": 2202,
     "timeYear": 1712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-12": 0
+    }
   }
 ]
